@@ -1,3 +1,1 @@
-let myobj = {
-    name: "abdul samad"
-}
+o
